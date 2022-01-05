@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @SooIsntYoung
+- 👀 I’m interested in learning front-end development.
+- 🌱 I’m currently learning Javascript, HTML, and CSS
+- 📫 Contact my email Sooyoungwhang215@gmail.com for inquiries!
